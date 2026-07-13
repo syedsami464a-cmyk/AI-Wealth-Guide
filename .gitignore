@@ -1,0 +1,56 @@
+# =========================
+# FRONTEND
+# =========================
+frontend/node_modules/
+frontend/dist/
+
+# =========================
+# BACKEND
+# =========================
+backend/__pycache__/
+backend/**/*.pyc
+backend/**/*.pyo
+backend/**/*.pyd
+
+# Python Virtual Environment
+backend/venv/
+backend/.venv/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Environment Variables
+# =========================
+.env
+*.env
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Cache
+# =========================
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# =========================
+# Keep These Files
+# (Do NOT ignore them)
+# =========================
+# backend/model/investment_model.pkl
+# backend/dataset/investment_dataset.csv
+# backend/investment.db
+# backend/database.db

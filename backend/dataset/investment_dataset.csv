@@ -1,0 +1,11 @@
+age,income,savings,risk,goal,product
+22,25000,3000,Low,Savings,RD
+25,50000,15000,Low,Retirement,PPF
+27,70000,25000,Medium,Retirement,NPS
+30,85000,30000,High,Wealth Creation,Mutual Funds
+35,45000,12000,Medium,Gold Investment,Gold ETF
+40,60000,20000,Low,Safe Investment,FD
+24,30000,5000,Low,Savings,RD
+29,90000,40000,High,Wealth Creation,Mutual Funds
+31,55000,18000,Medium,Retirement,NPS
+45,70000,25000,Low,Safe Investment,FD
