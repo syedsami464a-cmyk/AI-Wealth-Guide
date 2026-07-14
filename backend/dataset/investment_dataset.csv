@@ -1,11 +1,151 @@
 age,income,savings,risk,goal,product
-22,25000,3000,Low,Savings,RD
-25,50000,15000,Low,Retirement,PPF
-27,70000,25000,Medium,Retirement,NPS
-30,85000,30000,High,Wealth Creation,Mutual Funds
-35,45000,12000,Medium,Gold Investment,Gold ETF
-40,60000,20000,Low,Safe Investment,FD
-24,30000,5000,Low,Savings,RD
-29,90000,40000,High,Wealth Creation,Mutual Funds
-31,55000,18000,Medium,Retirement,NPS
-45,70000,25000,Low,Safe Investment,FD
+22,20000,3100,Low,Savings,RD
+24,27000,2500,Low,Savings,RD
+22,41000,6300,Low,Savings,RD
+29,22000,3100,Low,Savings,RD
+21,20000,1800,Low,Savings,RD
+24,36000,5000,Low,Savings,RD
+29,26000,3900,Low,Savings,RD
+29,33000,3400,Low,Savings,RD
+30,28000,4500,Low,Savings,RD
+21,44000,7100,Low,Savings,RD
+27,30000,3200,Low,Savings,RD
+24,44000,5000,Low,Savings,RD
+22,32000,2900,Low,Savings,RD
+26,39000,4200,Low,Savings,RD
+21,43000,5400,Low,Savings,RD
+22,32000,2800,Low,Savings,RD
+25,40000,5700,Low,Savings,RD
+26,38000,3800,Low,Savings,RD
+22,21000,3100,Low,Savings,RD
+25,22000,3600,Low,Savings,RD
+22,32000,3400,Low,Savings,RD
+26,25000,2900,Low,Savings,RD
+24,41000,4400,Low,Savings,RD
+22,39000,5600,Low,Savings,RD
+29,43000,4500,Low,Savings,RD
+39,59000,9600,Low,Safe Investment,FD
+45,79000,16500,Low,Safe Investment,FD
+46,55000,14000,Low,Safe Investment,FD
+49,38000,6000,Low,Safe Investment,FD
+26,86000,14700,Low,Safe Investment,FD
+33,39000,6000,Low,Safe Investment,FD
+43,80000,13600,Low,Safe Investment,FD
+45,66000,12100,Low,Safe Investment,FD
+45,64000,9100,Low,Safe Investment,FD
+29,50000,12000,Low,Safe Investment,FD
+42,51000,12200,Low,Safe Investment,FD
+38,72000,13200,Low,Safe Investment,FD
+32,43000,8700,Low,Safe Investment,FD
+27,83000,10600,Low,Safe Investment,FD
+28,44000,9700,Low,Safe Investment,FD
+50,78000,14600,Low,Safe Investment,FD
+27,59000,10700,Low,Safe Investment,FD
+39,68000,10900,Low,Safe Investment,FD
+42,90000,24400,Low,Safe Investment,FD
+46,81000,11200,Low,Safe Investment,FD
+42,83000,13500,Low,Safe Investment,FD
+45,56000,7700,Low,Safe Investment,FD
+38,45000,8700,Low,Safe Investment,FD
+48,81000,13100,Low,Safe Investment,FD
+41,83000,12300,Low,Safe Investment,FD
+28,100000,28600,Low,Retirement,PPF
+45,77000,21800,Low,Retirement,PPF
+29,68000,21100,Low,Retirement,PPF
+42,94000,31700,Low,Retirement,PPF
+25,83000,19500,Low,Retirement,PPF
+25,52000,17600,Low,Retirement,PPF
+34,60000,11400,Low,Retirement,PPF
+43,50000,9700,Low,Retirement,PPF
+40,97000,18600,Low,Retirement,PPF
+42,94000,18900,Low,Retirement,PPF
+40,80000,16600,Low,Retirement,PPF
+41,100000,28300,Low,Retirement,PPF
+31,79000,24400,Low,Retirement,PPF
+31,90000,21000,Low,Retirement,PPF
+45,68000,17300,Low,Retirement,PPF
+41,73000,14600,Low,Retirement,PPF
+32,49000,11600,Low,Retirement,PPF
+43,80000,17500,Low,Retirement,PPF
+32,45000,8600,Low,Retirement,PPF
+45,48000,10500,Low,Retirement,PPF
+26,100000,23600,Low,Retirement,PPF
+41,60000,13600,Low,Retirement,PPF
+40,58000,15800,Low,Retirement,PPF
+43,81000,21100,Low,Retirement,PPF
+40,96000,23900,Low,Retirement,PPF
+31,72000,23900,Medium,Retirement,NPS
+39,114000,32200,Medium,Retirement,NPS
+55,66000,22100,Medium,Retirement,NPS
+48,72000,15300,Medium,Retirement,NPS
+51,103000,37100,Medium,Retirement,NPS
+31,91000,21700,Medium,Retirement,NPS
+45,117000,26700,Medium,Retirement,NPS
+33,95000,27800,Medium,Retirement,NPS
+55,69000,19900,Medium,Retirement,NPS
+55,130000,28500,Medium,Retirement,NPS
+48,129000,47400,Medium,Retirement,NPS
+30,90000,21000,Medium,Retirement,NPS
+43,121000,29400,Medium,Retirement,NPS
+40,67000,15600,Medium,Retirement,NPS
+28,109000,27600,Medium,Retirement,NPS
+53,118000,30300,Medium,Retirement,NPS
+50,131000,43500,Medium,Retirement,NPS
+43,79000,18800,Medium,Retirement,NPS
+34,67000,21200,Medium,Retirement,NPS
+45,67000,23400,Medium,Retirement,NPS
+29,66000,20900,Medium,Retirement,NPS
+44,127000,29400,Medium,Retirement,NPS
+44,70000,25900,Medium,Retirement,NPS
+30,136000,29000,Medium,Retirement,NPS
+55,90000,25300,Medium,Retirement,NPS
+55,122000,24300,Medium,Gold Investment,Gold ETF
+44,55000,15100,Medium,Gold Investment,Gold ETF
+38,134000,35700,Medium,Gold Investment,Gold ETF
+41,90000,30300,Medium,Gold Investment,Gold ETF
+31,135000,39600,Medium,Gold Investment,Gold ETF
+32,83000,19000,Medium,Gold Investment,Gold ETF
+46,132000,27700,Medium,Gold Investment,Gold ETF
+35,59000,9000,Medium,Gold Investment,Gold ETF
+44,122000,42600,Medium,Gold Investment,Gold ETF
+27,118000,22700,Medium,Gold Investment,Gold ETF
+33,66000,22200,Medium,Gold Investment,Gold ETF
+53,58000,18900,Medium,Gold Investment,Gold ETF
+36,86000,15600,Medium,Gold Investment,Gold ETF
+51,119000,34600,Medium,Gold Investment,Gold ETF
+44,133000,34000,Medium,Gold Investment,Gold ETF
+46,120000,25200,Medium,Gold Investment,Gold ETF
+46,63000,21300,Medium,Gold Investment,Gold ETF
+29,83000,14400,Medium,Gold Investment,Gold ETF
+28,120000,21700,Medium,Gold Investment,Gold ETF
+34,127000,24400,Medium,Gold Investment,Gold ETF
+35,76000,21800,Medium,Gold Investment,Gold ETF
+52,83000,20800,Medium,Gold Investment,Gold ETF
+33,56000,9400,Medium,Gold Investment,Gold ETF
+38,85000,13500,Medium,Gold Investment,Gold ETF
+35,66000,18300,Medium,Gold Investment,Gold ETF
+30,111000,48300,High,Wealth Creation,Mutual Funds
+39,179000,69900,High,Wealth Creation,Mutual Funds
+25,89000,43300,High,Wealth Creation,Mutual Funds
+44,108000,41700,High,Wealth Creation,Mutual Funds
+33,107000,38200,High,Wealth Creation,Mutual Funds
+23,148000,50500,High,Wealth Creation,Mutual Funds
+23,161000,48700,High,Wealth Creation,Mutual Funds
+29,96000,32500,High,Wealth Creation,Mutual Funds
+39,174000,85900,High,Wealth Creation,Mutual Funds
+45,109000,52500,High,Wealth Creation,Mutual Funds
+29,111000,54800,High,Wealth Creation,Mutual Funds
+27,175000,44800,High,Wealth Creation,Mutual Funds
+45,155000,69100,High,Wealth Creation,Mutual Funds
+35,133000,42100,High,Wealth Creation,Mutual Funds
+44,97000,33500,High,Wealth Creation,Mutual Funds
+23,190000,58100,High,Wealth Creation,Mutual Funds
+36,159000,51900,High,Wealth Creation,Mutual Funds
+29,127000,32500,High,Wealth Creation,Mutual Funds
+28,172000,57100,High,Wealth Creation,Mutual Funds
+24,141000,47600,High,Wealth Creation,Mutual Funds
+38,172000,72200,High,Wealth Creation,Mutual Funds
+39,154000,74700,High,Wealth Creation,Mutual Funds
+25,136000,40100,High,Wealth Creation,Mutual Funds
+30,79000,21900,High,Wealth Creation,Mutual Funds
+35,158000,68300,High,Wealth Creation,Mutual Funds
