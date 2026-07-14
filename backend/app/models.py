@@ -2,6 +2,9 @@ from sqlalchemy import Column
 from sqlalchemy import Integer
 from sqlalchemy import String
 from sqlalchemy import Float
+from sqlalchemy import DateTime
+
+from datetime import datetime, UTC
 
 from .database import Base
 
@@ -26,3 +29,5 @@ class UserRecommendation(Base):
     risk_level = Column(String)
 
     recommended_product = Column(String)
+
+    created_at = Column(DateTime, default=lambda: datetime.now(UTC))
